@@ -8,6 +8,7 @@ This project is a springboot app maked in java 17. He is a crud project, and hav
   - <a href="https://dev.mysql.com/downloads/installer/" target="_blank">MySql Database</a>
   - <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html" target="_blank">Java 17</a>
   - <a href="https://spring.io/tools" target="_blank">SpringToolSuite4</a>
+  - <a href="https://www.postman.com/downloads/">Postman</a>
 
 It is the application file settings, here you can change the profile between teste and dev
 ![ApplicationProperties](https://user-images.githubusercontent.com/64444829/172061456-fc61d5b4-b41d-43e6-8f9b-08a345640aab.PNG)<br>
